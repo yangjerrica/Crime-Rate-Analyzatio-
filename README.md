@@ -1,5 +1,4 @@
 # Crime Rate Analyzation in the United States
-UBC CPSC103 python project
 
 ## Purpose
 Provides information for students that are not familiar with the city as a factor before heading there for studies. 
